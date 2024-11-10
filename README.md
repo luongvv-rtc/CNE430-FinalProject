@@ -1,1 +1,1 @@
-# CNE430-FinalProject
+# CNE430-FinalProject: Create a Resume Website on AWS
