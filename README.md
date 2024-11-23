@@ -9,7 +9,9 @@
 	- Alex Johnson's Resume Page
 	- Ryan Miller's Resume Page
 * Create a S3 Bucket and upload fies to this bucket.
-* Configure S3 to host a static website with public access.
-
+* Configure [S3](https://aws.amazon.com/s3/) to host a static website with public access.
+## Associate the website with a custom domain name using [Route 53](https://aws.amazon.com/route53/)
+* Create public hosted zone for the custom domain name on [Route 53](https://aws.amazon.com/route53/).
+* Update Domain Name records to point to the S3 website endpoint
 
 
