@@ -27,4 +27,5 @@ Step by step installation document:
 project-build-a-resume 
 ## Special Thanks
 Thank you, Christine Sutton, for all the guidance on this project and during the course.
+Thank you, @tsabin2023 and @AbiyuTamirat2, for your contribution and collaboration for this project.
 
