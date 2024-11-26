@@ -19,8 +19,7 @@
 * Setting up Origin Access Control to [CloudFront](https://aws.amazon.com/cloudfront/).
 * Updating the A Record in [Route 53](https://aws.amazon.com/route53/) to point to [CloudFront](https://aws.amazon.com/cloudfront/)
 ## Documents
-Step by step installation document: 
-<!-- https://github.com/luongvv-rtc/CNE430-FinalProject/CNE430 Final Project Installation Document.pdf-->
+Step by step installation document: [Installation Guide](https://github.com/luongvv-rtc/CNE430-FinalProject/CNE430 Final Project Installation Document.pdf)
 ## References
 * YouTube. (n.d.). YouTube. https://www.youtube.com/watch?v=x7YjX2_zGsk  
 * freeCodeCamp. (2023, November 8). How to build an online résumé on AWS using S3, Route 53, CloudFront, and ACM. freeCodeCamp.org. https://www.freecodecamp.org/news/aws-
